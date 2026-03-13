@@ -1,0 +1,2 @@
+# Data-Cleaning-Sales-Analysis-Project-Vee-Inc.-Junior-Data-Professional-Task
+This project was completed as part of my role as a Data Professional at Vee Inc. The objective was to clean and prepare a client’s dataset, resolve inconsistencies, and generate key business metrics based on enquiries from the Team Lead. All tasks were completed using Microsoft Excel, applying a range of data cleaning and analytical techniques.
