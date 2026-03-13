@@ -46,7 +46,7 @@ Cost = Cost Price × Quantity
 	Profit 
 Profit = Revenue − Cost
 	Discount Amount 
-	"Discount"="Revenue"×"Discount Rate" 
+	Discount = Revenue × Discount Rate 
 
 # Project Outcome
 	A fully cleaned and standardized dataset
